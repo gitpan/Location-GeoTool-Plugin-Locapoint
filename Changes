@@ -1,0 +1,6 @@
+Revision history for Perl extension Location::GeoTool::Plugin::Locapoint.
+
+0.01  Fri Oct  7 14:17:24 2005
+	- original version; created by h2xs 1.23 with options
+		-A -X -n Location::GeoTool::Plugin::Locapoint
+
